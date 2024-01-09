@@ -1,13 +1,20 @@
 # southeastern us
 
 ## ash
+
 ### white
+*Fraxinus americana*
+
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102001111.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102001222.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102001347.png)
 
 ## cherry
+
 ### black
+
+*Prunus serotina*
+
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000450.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000657.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000635.png)
@@ -17,11 +24,17 @@
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235214.png)
 
 ### american
+
+*Ulmus americana*
+
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234315.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235305.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235124.png)
 
 ### winged
+
+*Ulmus alata*
+
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234353.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234942.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235009.png)
@@ -29,25 +42,49 @@
 ## dogwood
 
 ## hackberry
+
+### southern
+
+*Celtis laevigata*
+
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000058.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000137.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000238.png)
 
 ## hickory
+
 ### bitternut
+
+*Carya cordiformis*
+
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005919.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010007.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010028.png)
 
+### pecan
+
+*Carya illinoinensis*
+
+![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010633.png)
+![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010739.png)
+![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011006.png)
+
 ### pignut
+
+*Carya glabra*
+
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011117.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011150.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011235.png)
 
 ### water
+
+*Carya aquatica*
+
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010113.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010415.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010521.png)
+
 ## holly
 ### american
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233836.png)
@@ -301,10 +338,9 @@ possumhaw holly
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102012020.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102012057.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102012125.png)
+
 ## pecan
-![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010633.png)
-![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010739.png)
-![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011006.png)
+*See [hickory](#hickory)*
 
 ## persimmon
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102012529.png)

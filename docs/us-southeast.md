@@ -72,7 +72,7 @@ The following are native species to North America located in the Southeast. This
 
 ### pignut
 
-*Carya glabra*
+*Carya glabra*, SG .75
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011117.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011150.png)
@@ -208,7 +208,7 @@ The following are native species to North America located in the Southeast. This
 
 ### swamp post
 
-*Quercus similis*
+*Quercus similis*, SG .67
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005350.png)
 

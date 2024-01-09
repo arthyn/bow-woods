@@ -1,13 +1,13 @@
 # southeastern us
 
 ## ash
-**white**
+### white
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102001111.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102001222.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102001347.png)
 
 ## cherry
-**black**
+### black
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000450.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000657.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000635.png)
@@ -15,15 +15,17 @@
 
 ## elm
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235214.png)
-**american**
+
+### american
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234315.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235305.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235124.png)
 
-**winged**
+### winged
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234353.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234942.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235009.png)
+
 ## dogwood
 
 ## hackberry
@@ -32,32 +34,34 @@
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000238.png)
 
 ## hickory
-**bitternut**
+### bitternut
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005919.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010007.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010028.png)
 
-**pignut**
+### pignut
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011117.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011150.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011235.png)
 
-**water**
+### water
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010113.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010415.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010521.png)
 ## holly
-**american**
+### american
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233836.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233616.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233546.png)
 
-**yaupon**
+### yaupon
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234035.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233932.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234050.png)
+
 ## hornbeam
-**american**
+
+### american
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103134936.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103135007.png)
 
@@ -66,33 +70,38 @@
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103135142.png)
 
 ## juniper
-**eastern redcedar**
+### eastern redcedar
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233049.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233012.png)
+
 ## locust
-**black**
+
+### black
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232307.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232455.png)
 
-**honey**
+### honey
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232700.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232602.png)
+
 ## maple
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231932.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232801.png)
-**red**
+
+### red
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231442.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231627.png)
 
-**sugar**
+### sugar
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231834.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231751.png)
+
 ## mountain laurel
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103135551.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103135607.png)
 
 ## mulberry
-**red**
+### red
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011544.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011703.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011710.png)
@@ -101,17 +110,23 @@
 ## oak
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102004927.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005025.png)
-**red/cherrybark**
+
+### red/cherrybark
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005535.png)
-**black**
-**overcup**
+
+### black
+
+### overcup
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005408.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005300.png)
-**shumard**
+
+### shumard
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005519.png)
-**swamp post**
+
+### swamp post
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005350.png)
-**water**
+
+### water
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102004758.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102004827.png)
 
@@ -119,6 +134,7 @@
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102012020.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102012057.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102012125.png)
+
 ## pecan
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010633.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010739.png)
@@ -149,13 +165,13 @@
 ## questionables and non-natives
 ---
 ### beech
-**american**
+### american
 ### birch
-**river**
+### river
 ### sweetgum
 native
 ### chinaberry
-(non-na**to be cut:**
+(non-na### to be cut:
 water hickory
 winged elm
 water/red oak
@@ -167,13 +183,13 @@ cut:
 possumhaw holly
 
 ## ash
-**white**
+### white
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102001111.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102001222.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102001347.png)
 
 ## cherry
-**black**
+### black
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000450.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000657.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000635.png)
@@ -181,12 +197,12 @@ possumhaw holly
 
 ## elm
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235214.png)
-**american**
+### american
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234315.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235305.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235124.png)
 
-**winged**
+### winged
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234353.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234942.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235009.png)
@@ -198,32 +214,32 @@ possumhaw holly
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000238.png)
 
 ## hickory
-**bitternut**
+### bitternut
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005919.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010007.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010028.png)
 
-**pignut**
+### pignut
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011117.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011150.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011235.png)
 
-**water**
+### water
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010113.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010415.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010521.png)
 ## holly
-**american**
+### american
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233836.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233616.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233546.png)
 
-**yaupon**
+### yaupon
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234035.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233932.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234050.png)
 ## hornbeam
-**american**
+### american
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103134936.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103135007.png)
 
@@ -232,25 +248,25 @@ possumhaw holly
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103135142.png)
 
 ## juniper
-**eastern redcedar**
+### eastern redcedar
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233049.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233012.png)
 ## locust
-**black**
+### black
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232307.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232455.png)
 
-**honey**
+### honey
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232700.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232602.png)
 ## maple
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231932.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232801.png)
-**red**
+### red
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231442.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231627.png)
 
-**sugar**
+### sugar
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231834.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231751.png)
 ## mountain laurel
@@ -258,7 +274,7 @@ possumhaw holly
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103135607.png)
 
 ## mulberry
-**red**
+### red
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011544.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011703.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011710.png)
@@ -267,17 +283,17 @@ possumhaw holly
 ## oak
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102004927.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005025.png)
-**red/cherrybark**
+### red/cherrybark
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005535.png)
-**black**
-**overcup**
+### black
+### overcup
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005408.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005300.png)
-**shumard**
+### shumard
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005519.png)
-**swamp post**
+### swamp post
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005350.png)
-**water**
+### water
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102004758.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102004827.png)
 

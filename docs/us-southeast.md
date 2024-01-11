@@ -1,18 +1,20 @@
 # southeastern us
 The following are native species to North America located in the Southeast. This mostly comprises Louisiana, Arkansas, Mississippi, Tennesse, Alabama, North Carolina, South Carolina, Georgia, and northern parts of Florida.
 
-## ash
+## true bowwoods
 
-### white
+### ash
+
+#### white
 *Fraxinus americana*, SG .59
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102001111.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102001222.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102001347.png)
 
-## cherry
+### cherry
 
-### black
+#### black
 
 *Prunus serotina*, SG .50
 
@@ -21,10 +23,10 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000635.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000810.png)
 
-## elm
+### elm
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235214.png)
 
-### american
+#### american
 
 *Ulmus americana*, SG .50
 
@@ -32,7 +34,7 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235305.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235124.png)
 
-### winged
+#### winged
 
 *Ulmus alata*, SG .66
 
@@ -40,11 +42,11 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234942.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101235009.png)
 
-## dogwood
+### dogwood
 
-## hackberry
+### hackberry
 
-### southern
+#### southern
 
 *Celtis laevigata*, SG .53
 
@@ -52,9 +54,9 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000137.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102000238.png)
 
-## hickory
+### hickory
 
-### bitternut
+#### bitternut
 
 *Carya cordiformis*, SG .66
 
@@ -62,7 +64,7 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010007.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010028.png)
 
-### pecan
+#### pecan
 
 *Carya illinoinensis*, SG .66
 
@@ -70,7 +72,7 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010739.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011006.png)
 
-### pignut
+#### pignut
 
 *Carya glabra*, SG .75
 
@@ -78,7 +80,7 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011150.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011235.png)
 
-### water
+#### water
 
 *Carya aquatica*, SG .62
 
@@ -86,9 +88,9 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010415.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102010521.png)
 
-## holly
+### holly
 
-### american
+#### american
 
 *Ilex opaca*, SG .56
 
@@ -96,7 +98,7 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233616.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233546.png)
 
-### yaupon
+#### yaupon
 
 *Ilex vomitoria*
 
@@ -104,77 +106,77 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233932.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101234050.png)
 
-## hornbeam
+### hornbeam
 
-### american
+#### american
 
 *Carpinus caroliniana*, SG .70
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103134936.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103135007.png)
 
-## hophornbeam
+### hophornbeam
 
-### eastern/ironwood
+#### eastern/ironwood
 
 *Ostrya virginiana*, SG .70
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103135120.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103135142.png)
 
-## juniper
+### juniper
 
-### eastern redcedar
+#### eastern redcedar
 
 *Juniperus virginiana*, SG .47
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233049.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101233012.png)
 
-## locust
+### locust
 
-### black
+#### black
 
 *Robinia psuedoacacia*, SG .69
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232307.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232455.png)
 
-### honey
+#### honey
 
 *Gleditsia triacanthos*, SG .66
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232700.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232602.png)
 
-## maple
+### maple
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231932.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101232801.png)
 
-### red
+#### red
 
 *Acer rubrum*, SG .54
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231442.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231627.png)
 
-### sugar
+#### sugar
 
 *Acer saccharum*, SG .63
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231834.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240101231751.png)
 
-## mountain laurel
+### mountain laurel
 
 *Kalmia latifolia*, SG .68
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103135551.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240103135607.png)
 
-## mulberry
+### mulberry
 
-### red
+#### red
 
 *Morus rubra*, SG .66
 
@@ -183,43 +185,43 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011710.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102011728.png)
 
-## oak
+### oak
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102004927.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005025.png)
 
-### red/cherrybark
+#### red/cherrybark
 
 *Quercus falcata/pagoda*, SG .59
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005535.png)
 
-### overcup
+#### overcup
 
 *Quercus lyrata*
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005408.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005300.png)
 
-### shumard
+#### shumard
 
 *Quercus shumardii*
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005519.png)
 
-### swamp post
+#### swamp post
 
 *Quercus similis*, SG .67
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102005350.png)
 
-### water
+#### water
 
 *Quercus nigra*
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102004758.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102004827.png)
 
-## osage orange
+### osage orange
 
 *Maclura pomifera*, SG .82
 
@@ -227,19 +229,19 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102012057.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102012125.png)
 
-## pecan
+### pecan
 *See [hickory](#hickory)*
 
-## persimmon
+### persimmon
 
 *Diospyros virginiana*, SG .74
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102012529.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102012550.png)
 
-## plum
+### plum
 
-### american
+#### american
 
 *Prunus americana*, SG .70
 
@@ -250,7 +252,7 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102012955.png)
 
 
-## sassafras
+### sassafras
 
 *Sassafras albidum*, SG .46
 
@@ -258,12 +260,98 @@ The following are native species to North America located in the Southeast. This
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102013613.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102013721.png)
 
-## walnut
+### walnut
 
-### black
+#### black
 
 *Juglans nigra*, SG .55
 
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102013931.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102013958.png)
 ![](https://nyc3.digitaloceanspaces.com/hmillerdev/bows/2024.1.09..03.54.24-Pasted%20image%2020240102014104.png)
+
+## borderline bowwoods
+
+### boxelder
+
+*Acer negundo*, SG .46
+
+### elderberry
+
+*Sambucus nigra*
+
+## non bowwoods
+
+### alder
+
+#### smooth
+
+*Alnus serrulata*
+
+### aspen
+
+#### bigtooth
+
+*Populus grandidentata*, SG .38
+
+### baldcypress
+
+*Taxodium distichum*, SG .46
+
+### basswood
+
+*Tilia americana*, SG .37
+
+### buckeye
+
+#### ohio
+
+*Aesculus glabra*
+
+#### painted
+
+*Aesculus sylvatica*
+
+#### red
+
+*Aesculus pavia*
+
+#### yellow
+
+*Aesculus flava*, SG .36
+
+### butternut
+
+*Juglans cinerea*, SG .38
+
+### cottonwood
+
+#### eastern
+
+*Populus deltoides*, SG .40
+
+#### swamp
+
+*Populus heterophylla*
+
+### cedar
+
+#### atlantic white
+
+*Chamaecyparis thyoides*, SG .32
+
+### chestnut
+
+#### american
+
+*Castanea dentata*, SG .43
+
+#### dwarf/allegheny chinkapin
+
+*Castanea pumila*
+
+### willow
+
+#### black
+
+*Salix nigra*, SG .39

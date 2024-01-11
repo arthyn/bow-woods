@@ -6,6 +6,22 @@ The images are currently pulled from Google searches. I intend to replace these 
 
 Below are links to various regions' guides:
 
+- [Northeastern US](/bow-woods/us-northeast)
+- [Northwestern US](/bow-woods/us-northwest)
+- [Midwestern US](/bow-woods/us-midwest)
 - [Southeastern US](/bow-woods/us-southeast)
+- [Southwestern US](/bow-woods/us-southwest)
+
+
+## notes
+
+*Species Todo:*
+- Firs
+- Hemlocks
+- Mahogany
+- Pines
+- Poplars
+- Redwoods
+- Spruces
 
 Specific gravity numbers are all from [this post](https://forum.gon.com/threads/list-of-potential-bow-woods.481711/) which seems to pull most of its numbers from the Traditional Bowyer's Bible Vol. 4.
